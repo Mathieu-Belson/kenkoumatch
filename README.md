@@ -6,15 +6,27 @@ Select the specialty that fits, and you can perform a search for nearby docs and
 The translation card takes your symptoms as input and will return to you the Japanese translation, associated keywords, and associated phrases.
 You can regenerate the phrases / keywords, and save the ones you like to your favorites.
 
-<img src="./app/assets/images/KenkouMatch_Menu.png">
+<img src="./app/assets/images/KenkouMatch_home.png">
 <br>
-<img src="./app/assets/images/KenkouMatch_InstSearch.png">
+<img src="./app/assets/images/KenkouMatch_practice.png">
 <br>
-<img src="./app/assets/images/KenkouMatch_Create.png">
+<img src="./app/assets/images/KenkouMatch_search.png">
 <br>
-<img src="./app/assets/images/KenkouMatch_Card.png">
+<img src="./app/assets/images/KenkouMatch_practice_index.png">
 <br>
-App home: http://kenkoumatch.herokuapp.com
+<img src="./app/assets/images/KenkouMatch_practice_show.png">
+<br>
+<img src="./app/assets/images/KenkouMatch_practice_card.png">
+<br>
+<img src="./app/assets/images/KenkouMatch_keywords.png">
+<br>
+<img src="./app/assets/images/KenkouMatch_phrases.png">
+<br>
+<img src="./app/assets/images/KenkouMatch_phrases.png">
+<br>
+<img src="./app/assets/images/KenkouMatch_mycards.png">
+<br>
+App home: http://*****************.com
 
 
 ## Getting Started
