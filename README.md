@@ -22,8 +22,6 @@ You can regenerate the phrases / keywords, and save the ones you like to your fa
 <br>
 <img src="./app/assets/images/KenkouMatch_phrases.png">
 <br>
-<img src="./app/assets/images/KenkouMatch_phrases.png">
-<br>
 <img src="./app/assets/images/KenkouMatch_mycards.png">
 <br>
 App home: http://*****************.com
